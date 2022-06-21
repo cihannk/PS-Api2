@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS-Api2", "PS-Api2\PS-Api2.csproj", "{BE897C46-C168-47ED-8A13-79453C67008A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE897C46-C168-47ED-8A13-79453C67008A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE897C46-C168-47ED-8A13-79453C67008A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE897C46-C168-47ED-8A13-79453C67008A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE897C46-C168-47ED-8A13-79453C67008A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F77224A9-A3D2-41B2-B34A-EF51CAA08448}
+	EndGlobalSection
+EndGlobal
